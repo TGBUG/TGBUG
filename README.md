@@ -18,6 +18,10 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-TGBUG-00A1D6?style=flat&logo=bilibili)](https://space.bilibili.com/3546621197421225)
 [![QQ](https://img.shields.io/badge/QQ-3770955706-EB1923?style=flat&logo=tencentqq)](https://3770955706.qzone.qq.com)
 
+## 💻 正在开发的项目
+- [NekoTodo-Core](https://github.com/TGBUG/NekoTodo-Core)
+- [MaiBot-MineCraft-Adapter](https://github.com/TGBUG/MaiBot-MineCraft-Adapter)
+
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=TGBUG" alt="TGBUG's GitHub stats" />
