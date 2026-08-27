@@ -24,5 +24,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=TGBUG" alt="TGBUG's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGBUG" alt="Top Langs" />
+[![TGBUG's GitHub stats](https://github-stats-extended.vercel.app/api?username=TGBUG)](https://github.com/stats-organization/github-stats-extended)
+
+[![TGBUG's Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=TGBUG)](https://github.com/stats-organization/github-stats-extended)
