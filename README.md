@@ -19,7 +19,7 @@
 [![QQ](https://img.shields.io/badge/QQ-3770955706-EB1923?style=flat&logo=tencentqq)](https://3770955706.qzone.qq.com)
 
 ## 💻 正在开发的项目
-- [NekoTodo-Core](https://github.com/TGBUG/NekoTodo-Core)
+- [NekoTodo](https://github.com/TGBUG/NekoTodo)
 - [MaiBot-MineCraft-Adapter](https://github.com/TGBUG/MaiBot-MineCraft-Adapter)
 
 ---
