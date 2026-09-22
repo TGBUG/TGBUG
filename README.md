@@ -12,6 +12,7 @@
 - 🛖 [TGBUGの基地](https://tgbug.cn)
 - 🗂️ [OpenList资源站](https://openlist.tgbug.cn)
 - 📊 [节点监控](https://status.tgbug.cn/status/tgbug)
+- 📖 [我的博客](https://blog.tgbug.cn)
 
 ## 📬 找到我
 [![GitHub](https://img.shields.io/badge/GitHub-TGBUG-1abc9c?style=flat&logo=github)](https://github.com/TGBUG)
