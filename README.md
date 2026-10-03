@@ -19,7 +19,7 @@
 [![Bilibili](https://img.shields.io/badge/Bilibili-TGBUG-00A1D6?style=flat&logo=bilibili)](https://space.bilibili.com/3546621197421225)
 [![QQ](https://img.shields.io/badge/QQ-3770955706-EB1923?style=flat&logo=tencentqq)](https://3770955706.qzone.qq.com)
 
-## 💻 正在开发的项目
+## 💻 正在开发的项目 *(长期维护)*
 - [NekoTodo](https://github.com/TGBUG/NekoTodo) ![Last Updated](https://img.shields.io/github/last-commit/TGBUG/NekoTodo?style=for-the-badge&label=最后更新&color=blue&logo=github)
 - [MaiBot-MineCraft-Adapter](https://github.com/TGBUG/MaiBot-MineCraft-Adapter) ![Last Updated](https://img.shields.io/github/last-commit/TGBUG/MaiBot-MineCraft-Adapter?style=for-the-badge&label=最后更新&color=blue&logo=github)
 
