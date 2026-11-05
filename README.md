@@ -21,7 +21,7 @@
 
 ## 💻 正在开发的项目 *(长期维护)*
 - [NekoTodo](https://github.com/TGBUG/NekoTodo) ![Last Updated](https://img.shields.io/github/last-commit/TGBUG/NekoTodo?style=for-the-badge&label=最后更新&color=blue&logo=github)
-- [MaiBot-MineCraft-Adapter](https://github.com/TGBUG/MaiBot-MineCraft-Adapter) ![Last Updated](https://img.shields.io/github/last-commit/TGBUG/MaiBot-MineCraft-Adapter?style=for-the-badge&label=最后更新&color=blue&logo=github)
+- [SimpleProbe](https://github.com/TGBUG/SimpleProbe) ![Last Updated](https://img.shields.io/github/last-commit/TGBUG/SimpleProbe?style=for-the-badge&label=最后更新&color=blue&logo=github)
 
 ---
 
